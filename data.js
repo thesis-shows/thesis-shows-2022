@@ -101,7 +101,7 @@ data = [
   //   "url": "https://atlas.sansar.com/experiences/virtualwsg-9185/vr-wspark-nyu-tisch-dpi-senior-thesis-3d-exhibition"
   // },
   {
-    "school_name": "Arkansas State University",
+    "school_name": "Arkansas State University Art",
     "program_name": null,
     "url": "https://bradburyartmuseum.org/upcomingexhibitions"
   },
@@ -450,7 +450,7 @@ data = [
     "url": "https://asudesignshow.com/"
   },
   {
-    "school_name": "Arkansas State University",
+    "school_name": "Arkansas State University Design",
     "url": "http://www.brandedshow.com/"
   },
   {
@@ -502,7 +502,7 @@ data = [
     "url": "https://untdesigngrads.com/"
   },
   {
-    "school_name": "University of Washington",
+    "school_name": "University of Washington Design",
     "url": "https://www.uwdesignshow.com/"
   },
   {
