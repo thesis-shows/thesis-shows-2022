@@ -47,7 +47,7 @@ data = [
     "url": "https://art.northwestern.edu/events/senior-show-opening-dittmar-gallery"
   },
   {
-    "school_name": "The Ohio State University",
+    "school_name": "The Ohio State University (BFA)",
     "program_name": null,
     "url": "https://art.osu.edu/ugrad-studies/bfa-exhibition"
   },
@@ -94,12 +94,12 @@ data = [
     "program_name": "MFA",
     "url": "https://athenaeum.uga.edu/"
   },
-  {
-    "school_name": "NYU Tisch School of the Arts (DPI)",
-    "alternates": ["New York University"],
-    "program_name": "Department of Photography and Imaging",
-    "url": "https://atlas.sansar.com/experiences/virtualwsg-9185/vr-wspark-nyu-tisch-dpi-senior-thesis-3d-exhibition"
-  },
+  // {
+  //   "school_name": "NYU Tisch School of the Arts (DPI)",
+  //   "alternates": ["New York University"],
+  //   "program_name": "Department of Photography and Imaging",
+  //   "url": "https://atlas.sansar.com/experiences/virtualwsg-9185/vr-wspark-nyu-tisch-dpi-senior-thesis-3d-exhibition"
+  // },
   {
     "school_name": "Arkansas State University",
     "program_name": null,
@@ -205,11 +205,11 @@ data = [
     "program_name": null,
     "url": "https://uam.nmsu.edu/exhibitions/exhibition-pages/the-better-show-bring-your-own.html"
   },
-  {
-    "school_name": "University of Connecticut",
-    "program_name": "BFA in Art",
-    "url": "https://uconnbfa.art/"
-  },
+  // {
+  //   "school_name": "University of Connecticut",
+  //   "program_name": "BFA in Art",
+  //   "url": "https://uconnbfa.art/"
+  // },
   {
     "school_name": "University of Texas at Austin",
     "alternates": ["UT"],
@@ -297,11 +297,6 @@ data = [
     "url": "https://www.newpaltz.edu/museum/exhibitions/future.html"
   },
   {
-    "school_name": "Otis College of Art and Design",
-    "program_name": null,
-    "url": "https://www.otis.edu/mfa-fine-arts/mfa-fine-arts-thesis-exhibitions"
-  },
-  {
     "school_name": "Pratt Institute",
     "program_name": null,
     "url": "https://www.pratt.edu/academics/school-of-art/undergraduate-school-of-art/photography/photography-senior-thesis-exhibitions/"
@@ -339,7 +334,7 @@ data = [
     "url": "https://www.bfaphotovideo.sva.edu/senior-show-2022"
   },
   {
-    "school_name": "FIT SUNY",
+    "school_name": "FIT SUNY (Photo BFA)",
     "alternates": ["Fashion Institute of Technology", "State University of New York"],
     "program_name": "Photography BFA",
     "url": "https://www.fitphotobfa2022.com"
@@ -379,7 +374,7 @@ data = [
     "url": "https://www.otis.edu/mfa-fine-arts/mfa-fine-arts-thesis-exhibitions"
   },
   {
-    "school_name": "Massachusetts Collee of Art and Design",
+    "school_name": "Massachusetts College of Art and Design",
     "url": "https://sowa.massart.edu/"
   },
   {
@@ -431,7 +426,7 @@ data = [
     "url": "https://eskenazi.indiana.edu/exhibitions/grunwald-gallery/online-exhibitions/mfa-bfa-thesis/index.html"
   },
   {
-    "school_name": "Indiana Univeristy of Pennsylvania",
+    "school_name": "Indiana University of Pennsylvania",
     "url": "https://www.iup.edu/museum/news/2022/03/iup-art-and-design-2022-mfa-thesis-exhibitions.html"
   },
   {
@@ -479,7 +474,7 @@ data = [
     "url": "https://www.msudenverbfathesis.com/"
   },
   {
-    "school_name": "The Ohio State University",
+    "school_name": "The Ohio State University (Design)",
     "url": "http://www.ohiostatedesignexhibits.com/"
   },
   {
@@ -536,10 +531,12 @@ data = [
   },
   {
     "school_name": "School of the Museum of Fine Arts at Tufts University, MFA",
+    "alternates": ["SMFA"],
     "url": "https://smfa.tufts.edu/events-exhibitions/virtual-exhibits/mfa-thesis/2022-forever"
   },
   {
     "school_name": "School of the Museum of Fine Arts at Tufts University, Senior Thesis",
+    "alternates": ["SMFA"],
     "url": "https://smfa.tufts.edu/events-exhibitions/virtual-exhibits/senior-thesis/2022"
   }
 ]
