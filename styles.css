@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: dinosaur, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    box-sizing: border-box;
+    /* cursor: url(https://cdn.glitch.global/b0a46a2e-81e0-446b-8d30-4ca51d9a9669/peace_cursor.png?v=1643205893554), auto; */
+    /* background-color: black; */
+  }
+
+  .wrapper {
+      padding-left: 5%;
+      /* background-image: url("ts1.png");
+      background-size: 100% 100%;
+      background-repeat: no-repeat; */
+      /* background-image: url("gradient.png"); */
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      /* mask: url(THESIS_RECEIPT.png); */
+      z-index: 1;
+  }
+
+  header {
+    margin-top: 40px;
+    position: fixed;
+    display: flex;
+  }
+
+
+  
+  input#search-bar {
+    background-color: rgba(255, 255, 255, 0);
+      border: 1px solid gray;
+      height: 35px;
+      font-size: 16px;
+      cursor: text;
+      width: 200px;
+      border-radius: 5px;
+      margin-left: -10px;
+      padding-left: 10px;
+
+  }
+
+  main {
+    /* margin: 25vh auto 120px auto; */
+    /* max-width: 1200px; */
+    padding-right: 5%;
+    padding-top: 100px;
+    column-gap: 5%;
+    columns: 4;
+        /* column-width: %; */
+    /* word-wrap: break-word; */
+    /* text-align: justify; */
+    text-justify: inter-character;
+    /* max-height: 110vh; */
+    overflow: hidden;
+  }
+
+  .school-link {
+    padding-bottom: 5px;
+  }
+
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  
+    position: absolute;
+    margin-top: 0px;
+    z-index: 1;
+  }
+
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+  .bottom-right-button {
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    padding-top: 10px;
+  }
+
+  .bottom-right-button .colophon {
+    width: 200px;
+    background-color: gray;
+    text-align: left;
+    border-radius: 5px;
+    /* padding: 5px 0; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: -230px;
+    /* z-index: 1; */
+    visibility: hidden;
+  }
+
+  .bottom-right-button:hover .colophon {
+    visibility: visible;
+  }
+
+
+  canvas {
+    position: fixed;
+    top: 0;
+    z-index: -10;
+  }
+
+  span#stop {
+    cursor: pointer;
+  }
+  
+  a {
+      /* cursor: url('https://cdn.glitch.global/b0a46a2e-81e0-446b-8d30-4ca51d9a9669/point_cursor.png?v=1643218532274'), auto; */
+    text-decoration: none;
+        /* cursor: pointer; */
+    }
+
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  ::placeholder {
+    /* color: black; */
+    opacity: 1;
+  }
+  
+  input:focus::placeholder {
+    color: transparent;
+  }
+  
+  input:focus::-ms-input-placeholder {
+    color: transparent;
+  }
+  
+  input:focus::-ms-input-placeholder {
+    color: transparent;
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    main {
+        columns: 3;
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+    main {
+        columns: 2;
+    }
+  }
+  
+  @media only screen and (max-device-width: 950px) {
+    
+    * {
+      font-size: 48pt;
+    }
+    .wrapper {
+      width: 100%;
+      margin-left: 5vw;
+      margin-right: 5vw;
+      margin-top: 0vw;
+    }
+   main {
+      /* padding-top: 20em; */
+      padding-top: 15vh;
+      padding-right: 0px;
+      columns: 1;
+      width: 100%;
+      overflow: hidden;
+    }
+
+
+    input#search-bar {
+      margin-top: 10px;
+      height: 7vh;
+      width: 100%;
+      font-size: 1em;
+    }
+    .school-link {
+      font-size: 48pt;
+      margin-bottom: 3vh;
+    }
+
+    .bottom-right-button {
+      position: fixed;
+      top: 0;
+      margin-right: 10px;
+    }
+
+    .bottom-right-button .colophon {
+      position: fixed;
+      left: 0;
+      width: 80%;
+      margin-left: 100px;
+      margin-top: 100px;
+    }
+
+
+  }
