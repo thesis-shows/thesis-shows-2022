@@ -532,7 +532,7 @@ data = [
     "school_name": "School of the Museum of Fine Arts at Tufts University, Senior Thesis",
     "alternates": ["SMFA"],
     "url": "https://smfa.tufts.edu/events-exhibitions/virtual-exhibits/senior-thesis/2022"
-  }
+  },
   {
     "school_name": "Sheridan College",
     "url": "https://www.sheridanphotography.ca"
