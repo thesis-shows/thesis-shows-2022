@@ -36,8 +36,8 @@ function setup() {
   background(0);
   x = random(width);
   y = random(height);
-  xspeed = 2;
-  yspeed = 2;
+  xspeed = 1.2;
+  yspeed = 1.2;
   pickColor();
   noStroke();
 }
