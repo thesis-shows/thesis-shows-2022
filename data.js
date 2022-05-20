@@ -94,12 +94,6 @@ data = [
     "program_name": "MFA",
     "url": "https://athenaeum.uga.edu/"
   },
-  // {
-  //   "school_name": "NYU Tisch School of the Arts (DPI)",
-  //   "alternates": ["New York University"],
-  //   "program_name": "Department of Photography and Imaging",
-  //   "url": "https://atlas.sansar.com/experiences/virtualwsg-9185/vr-wspark-nyu-tisch-dpi-senior-thesis-3d-exhibition"
-  // },
   {
     "school_name": "Arkansas State University Art",
     "program_name": null,
@@ -538,5 +532,29 @@ data = [
     "school_name": "School of the Museum of Fine Arts at Tufts University, Senior Thesis",
     "alternates": ["SMFA"],
     "url": "https://smfa.tufts.edu/events-exhibitions/virtual-exhibits/senior-thesis/2022"
+  }
+  {
+    "school_name": "Sheridan College",
+    "url": "https://www.sheridanphotography.ca"
+  },
+  {
+    "school_name": "Georgia State University",
+    "url": "https://gsuphotobfa.wixsite.com/seniors2022/home"
+  },
+  {
+    "school_name": "Muhlenberg College, BA Studio Art",
+    "url": "http://studioartthesisexhibitions.bergbuilds.domains/"
+  },
+  {
+    "school_name": "Yale School of Art, MFA Photography",
+    "url": "https://www.art.yale.edu/exhibitions/archive"
+  },
+  {
+    "school_name": "Yale University BA",
+    "url": "https://www.art.yale.edu/exhibitions/spring-2022-undergraduate-senior-thesis"
+  },
+  {
+    "school_name": "School of Visual Communication Design at Kent State University, Photography",
+    "url": "https://vcdseniorshow.com/photography2022/2022/03/03/hello-world/"
   }
 ]
