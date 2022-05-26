@@ -556,5 +556,9 @@ data = [
   {
     "school_name": "School of Visual Communication Design at Kent State University, Photography",
     "url": "https://vcdseniorshow.com/photography2022/2022/03/03/hello-world/"
+  },
+  {
+    "school_name": "Point Loma Nazarene University",
+    "url": "https://plnuseniorshow.com"
   }
 ]
