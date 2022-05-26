@@ -166,14 +166,17 @@ input:focus::-ms-input-placeholder {
   
   * {
     font-size: 48pt;
+  
   }
   .wrapper {
     width: 100%;
     margin-left: 5vw;
     margin-right: 5vw;
     margin-top: 0vw;
+    /* background-color: black; */
   }
   main {
+
     /* padding-top: 20em; */
     padding-top: 15vh;
     padding-right: 0px;
@@ -210,6 +213,10 @@ input:focus::-ms-input-placeholder {
 
   .colophon p{
     font-size: 48pt;
+  }
+
+  #defaultCanvas0 {
+    position: fixed;
   }
 
 
