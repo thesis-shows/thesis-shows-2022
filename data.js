@@ -560,5 +560,9 @@ data = [
   {
     "school_name": "Point Loma Nazarene University",
     "url": "https://plnuseniorshow.com"
+  },
+  {
+    "school_name": "Tulane University - Newcomb Art Department BFA",
+    "url": "https://liberalarts.tulane.edu/carrollgallery/bachelor-arts-exhibition-2022"
   }
 ]
