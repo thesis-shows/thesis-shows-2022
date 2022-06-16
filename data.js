@@ -551,7 +551,7 @@ data = [
   },
   {
     "school_name": "Yale University BA",
-    "url": "https://www.art.yale.edu/exhibitions/spring-2022-undergraduate-senior-thesis"
+    "url": "http://endnotes.yaleschoolofart.org/index.html"
   },
   {
     "school_name": "School of Visual Communication Design at Kent State University, Photography",
