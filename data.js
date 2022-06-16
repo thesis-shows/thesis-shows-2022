@@ -185,7 +185,7 @@ data = [
     "url": "https://sva.edu/events/mfa-fine-arts-2022-thesis-exhibition"
   },
   {
-    "school_name": "NYU Tisch School of the Arts (BFA Photo)",
+    "school_name": "NYU Tisch, BFA Photo",
     "program_name": "BFA Photography",
     "url": "https://tisch.nyu.edu/photo/bfa-exhibition-2022"
   },
@@ -328,7 +328,7 @@ data = [
     "url": "https://www.bfaphotovideo.sva.edu/senior-show-2022"
   },
   {
-    "school_name": "FIT SUNY (Photo BFA)",
+    "school_name": "FIT SUNY, BFA Photo",
     "alternates": ["Fashion Institute of Technology", "State University of New York"],
     "program_name": "Photography BFA",
     "url": "https://www.fitphotobfa2022.com"
@@ -412,7 +412,7 @@ data = [
     "url": "https://soa.princeton.edu/global-tags/thesis"
   },
   {
-    "school_name": "University of Connecticut, MFA Studio Art",
+    "school_name": "University of Connecticut, MFA",
     "url": "https://benton.uconn.edu/2022-uconn-studio-art-digital-media-and-design-master-of-fine-arts-thesis-exhibition/"
   },
   {
@@ -424,7 +424,7 @@ data = [
     "url": "https://www.iup.edu/museum/news/2022/03/iup-art-and-design-2022-mfa-thesis-exhibitions.html"
   },
   {
-    "school_name": "University of California, Irvine, Claire Trevor School of the Arts",
+    "school_name": "University of California, Irvine",
     "url": "https://uag.arts.uci.edu/exhibits/artprogram"
   },
   {
@@ -562,7 +562,7 @@ data = [
     "url": "https://plnuseniorshow.com"
   },
   {
-    "school_name": "Tulane University - Newcomb Art Department BFA",
+    "school_name": "Tulane University (BFA)",
     "url": "https://liberalarts.tulane.edu/carrollgallery/bachelor-arts-exhibition-2022"
   }
 ]

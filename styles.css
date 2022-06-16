@@ -4,7 +4,7 @@
   font-family: dinosaur, sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 14px;
   color: white;
   box-sizing: border-box;
   /* cursor: url(https://cdn.glitch.global/b0a46a2e-81e0-446b-8d30-4ca51d9a9669/peace_cursor.png?v=1643205893554), auto; */
@@ -44,9 +44,9 @@ main {
   /* margin: 25vh auto 120px auto; */
   /* max-width: 1200px; */
   padding-right: 5%;
-  padding-top: 100px;
+  padding-top: 20px;
   column-gap: 5%;
-  columns: 4;
+  columns: 5;
       /* column-width: %; */
   /* word-wrap: break-word; */
   /* text-align: justify; */
@@ -55,8 +55,12 @@ main {
   overflow: hidden;
 }
 
+#schools-list {
+  margin-top: 80px;
+}
+
 .school-link {
-  padding-bottom: 5px;
+  padding-bottom: 3px;
 }
 
 .tooltip .tooltiptext {
@@ -148,6 +152,12 @@ input:focus::-ms-input-placeholder {
 
 input:focus::-ms-input-placeholder {
   color: transparent;
+}
+
+@media only screen and (max-width: 1300px) {
+  main {
+      columns: 4;
+  }
 }
 
 @media only screen and (max-width: 1000px) {
