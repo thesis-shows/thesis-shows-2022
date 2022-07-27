@@ -1,4 +1,9 @@
 data = [
+   {
+    "school_name": "Northwestern University (MFA)",
+    "program_name": null,
+    "url": "https://nuwildcat.sharepoint.com/:b:/s/WNB-ArtTheoryandPractice2/ERGspW5U8x5JgbMABIdMTA0BMYonh3uMfHyR3f3NU7aSQA?e=o6eaXv"
+  },
   {
     "school_name": "California Baptist University",
     "program_name": "Photography",
