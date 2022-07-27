@@ -47,7 +47,7 @@ data = [
     "url": "https://art.nmu.edu/seniorshow/w21/index.html"
   },
   {
-    "school_name": "Northwestern University",
+    "school_name": "Northwestern University (BA)",
     "program_name": null,
     "url": "https://art.northwestern.edu/events/senior-show-opening-dittmar-gallery"
   },
