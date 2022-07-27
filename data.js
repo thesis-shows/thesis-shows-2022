@@ -555,7 +555,7 @@ data = [
     "url": "https://www.art.yale.edu/exhibitions/archive"
   },
   {
-    "school_name": "Yale University BA",
+    "school_name": "Yale University (BA)",
     "url": "http://endnotes.yaleschoolofart.org/index.html"
   },
   {
